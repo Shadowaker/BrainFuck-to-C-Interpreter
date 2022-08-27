@@ -23,3 +23,4 @@ char	*ft_replace(const char *s, char *stack);
 int		ft_isinstr(const char *stack, char c);
 void	*ft_bzero(void *b, size_t len);
 void	*ft_calloc(size_t count, size_t size);
+int		ft_isint(int c);
